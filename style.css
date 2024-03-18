@@ -1,0 +1,22 @@
+
+	body {
+
+            background-image: url(peakpx.jpg);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size:2000px 2000px ; 
+            background-position: center;
+        }
+	img{ 
+        background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 500px;
+            background-position: center;
+	}
+   audio {
+            display: block;
+            margin: 10px auto;
+            width: 50%;
+        }
+    p{font-size: 130%;
+    }
