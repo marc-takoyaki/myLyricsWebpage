@@ -18,5 +18,7 @@
             margin: 10px auto;
             width: 50%;
         }
-    p{font-size: 130%;
+    p{
+      font-size: 130%;
+      color:white;
     }
